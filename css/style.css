@@ -1574,3 +1574,8 @@ ul.address li {
 	background-color: #e88e09;
 	color: white;
 }
+
+/*================== Title Bar ====================*/
+.title {
+	background-color: #ffa000;
+}
